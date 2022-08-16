@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/zyn/Desktop/TEST/WebApplication1/WebApplication1/WebApplication1.csproj": {}
+    "/Users/zyn/Desktop/APBDtr/WebApplication1/WebApplication1/WebApplication1.csproj": {}
   },
   "projects": {
-    "/Users/zyn/Desktop/TEST/WebApplication1/WebApplication1/WebApplication1.csproj": {
+    "/Users/zyn/Desktop/APBDtr/WebApplication1/WebApplication1/WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/zyn/Desktop/TEST/WebApplication1/WebApplication1/WebApplication1.csproj",
+        "projectUniqueName": "/Users/zyn/Desktop/APBDtr/WebApplication1/WebApplication1/WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "/Users/zyn/Desktop/TEST/WebApplication1/WebApplication1/WebApplication1.csproj",
+        "projectPath": "/Users/zyn/Desktop/APBDtr/WebApplication1/WebApplication1/WebApplication1.csproj",
         "packagesPath": "/Users/zyn/.nuget/packages/",
-        "outputPath": "/Users/zyn/Desktop/TEST/WebApplication1/WebApplication1/obj/",
+        "outputPath": "/Users/zyn/Desktop/APBDtr/WebApplication1/WebApplication1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/zyn/.nuget/NuGet/NuGet.Config"
@@ -75,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/6.0.104_1/libexec/sdk/6.0.104/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.104/RuntimeIdentifierGraph.json"
         }
       }
     }
