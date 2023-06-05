@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{AD2B71F1-6C23-4E52-A792-8951FE1E98ED}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApplication1/Models/Doctor.cs">
+    <Files>
+      <File FileName="WebApplication1/Models/Doctor.cs" Line="13" Column="71" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApplication1" expanded="True">
+            <Node name="WebApplication1" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Doctor.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WebApplication1 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
